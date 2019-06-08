@@ -41,3 +41,9 @@ go up a directory: cd ..
 grab files from a repository: git pull
 
 look at what's on repository page: git fetch
+
+make file with specific extension: touch "file.ext"
+
+list directory: ls
+
+
