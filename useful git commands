@@ -1,0 +1,43 @@
+Useful git commands:
+
+clear screen: clear
+
+configuring git process:
+git config --global user.name "your name"
+git config --global user.email "your email"
+git config --global color.ui "auto"
+git config --global core.editor "nano -w" or "atom --wait"
+
+make directory: mkdir "directory name"
+
+change directory: cd "directory name"
+
+initialize repository: git init
+
+display status(suuuuuper useful): git status
+
+add file to directory: git add
+
+add all files to directory: git add *
+
+grab files in staging area & puts it in an identified repository: git commit
+
+commit files with message: git commit -m "enter message"
+
+push local repository to finalize changes: git push
+
+list path: pwd
+
+clone repository: git clone "link"
+
+look at changes: git log
+
+add a tag: git tag -a "version"
+
+tag and add message: git tag -a "version" -m "message"
+
+go up a directory: cd ..
+
+grab files from a repository: git pull
+
+look at what's on repository page: git fetch

@@ -1,0 +1,15 @@
+Useful Python Commands
+
+import os module: import os
+
+import shutil module: import shutil
+
+clear screen in shell: os.system('cls')
+
+rename files: os.rename('filename.txt','newfilename.txt')
+
+move files: shutil.move("path/to/current/file.ext","path/to/new/destination/file.txt")
+
+change directory: os.chdir(r"C:\Users\username\Desktop")
+
+
