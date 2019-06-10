@@ -12,4 +12,9 @@ move files: shutil.move("path/to/current/file.ext","path/to/new/destination/file
 
 change directory: os.chdir(r"C:\Users\username\Desktop")
 
+----------------------------------------------------------------------------------------
+secure prompts by not showing entry: getpass
+syntax:
 
+from getpass import getpass
+password = getpass()
