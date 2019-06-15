@@ -23,4 +23,27 @@ this is how a basic HTML file is set:
 
 <p>: basic paragraph
 
-<h1>: 
+<h1>: large heading
+
+<h2>: medium heading
+
+<h3>: small heading
+
+<br>: adds break
+
+-----------------------------------------------------------------------------------------
+
+Images
+
+<img src="image.jpg" alt="whatever label you want to give it">
+
+You can also denote the width and height of the image by doing:
+
+<img src="image.jpg" width="pixels" height="pixels">
+----------------------------------------------------------------------------------------- 
+
+Links on Webpage
+
+<a href ="https://site." target="_blank">Description of link</a>
+
+-----------------------------------------------------------------------------------------
